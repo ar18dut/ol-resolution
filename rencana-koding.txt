@@ -1,5 +1,7 @@
 rencana koding
 - rajin tulis koding
+* pengenalan dasar
+* dasar tags
 - koding html 
 - koding css
 - kodingjavascript
