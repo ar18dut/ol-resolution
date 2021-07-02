@@ -1,0 +1,4 @@
+OL Resolution
+- konsisten membuat koding 1x seminggu
+- membuat platform untuk belajar koding
+- membuat form diskusi
